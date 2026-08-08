@@ -5,4 +5,7 @@ psycopg[binary]
 pydantic
 pillow
 httpx
+httpx2
 crewai
+pytest
+httpx2
