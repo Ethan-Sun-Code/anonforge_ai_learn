@@ -1,6 +1,7 @@
 fastapi
 uvicorn[standard]
 sqlmodel
+aiosqlite
 psycopg[binary]
 pydantic
 pillow
